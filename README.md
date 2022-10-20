@@ -13,7 +13,10 @@ Junior Dev @ [Teorita](https://www.instagram.com/teoritafrutas/)
 
 - 🌱 I’m currently learning and improving **React Native and React**
 
-- 👯 I’m looking to collaborate on [Pegava Dating - RN App](https://github.com/GSTJ/PegavaDatingApp)
+- 👯 I’m looking to collaborate on
+  - [Owlrange Notes (React)](https://github.com/dansenpir/owlrangenotes-frontend)
+  - [Owlrange Notes (React Native)](https://github.com/dansenpir/owlrangenotes-mobile)
+  - [Pegava Dating (React Native)](https://github.com/GSTJ/PegavaDatingApp)
 <!-- 
 <h3 align="left">🛠️ Tech Stack</h3>
 <div>
