@@ -9,7 +9,7 @@
 
 
 
-Junior Dev @ [Teorita](https://www.instagram.com/teoritafrutas/)
+Dev Mobile and Web @ [Teorita](https://www.instagram.com/teoritafrutas/)
 
 - 🌱 I’m currently learning and improving **React Native and React**
 
