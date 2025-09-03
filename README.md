@@ -2,9 +2,8 @@
 
 <h1 align="left">Mateus Degobi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=32></img></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Degobi-BEE663?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mateusdegobi/)](https://www.linkedin.com/in/mateusdegobi/)
-[![Telegram Badge](https://img.shields.io/badge/-@mateusdegobi-BEE663?style=flat&logo=Telegram&logoColor=black&link=https://telegram.me/mateusdegobi)](https://telegram.me/mateusdegobi)
-[![Mail Badge](https://img.shields.io/badge/-devmateusdegobi@gmail.com-BEE663?style=flat&logo=Gmail&logoColor=black&link=mailto:mateus.degobi@outlook.com)](mailto:devmateusdegobi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20Mateus%20Degobi-BEE663?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/mateusdegobi/)](https://www.linkedin.com/in/mateusdegobi/)
+[![Mail Badge](https://img.shields.io/badge/-devmateusdegobi@gmail.com-BEE663?style=flat&logo=Gmail&logoColor=black&link=mailto:mateus.degobi@outlook.com)](mailto:mateus.degobi@outlook.com)
 
 
 
