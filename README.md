@@ -8,7 +8,7 @@
 
 
 
-Dev Mobile and Web @ [Hand Talk](https://github.com/Hand-Talk)
+Dev Mobile and Web
 
 - 🌱 I’m currently learning and improving **React Native and React**
 
