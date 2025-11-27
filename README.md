@@ -10,7 +10,6 @@
 
 Dev Mobile and Web
 
-- 🌱 I’m currently learning and improving **React Native and React**
 
 <!-- 
 <h3 align="left">🛠️ Tech Stack</h3>
